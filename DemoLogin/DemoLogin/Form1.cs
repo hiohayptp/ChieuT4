@@ -19,7 +19,12 @@ namespace DemoLogin
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            string user = Username.Text;
+            string pass = Password.Text;
+            if (user == "admin" && pass == "admin")
+            {
+                MessageBox.Show("Dnag nhap admin thanh conmg!");
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -28,3 +33,4 @@ namespace DemoLogin
         }
     }
 }
+    
