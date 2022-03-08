@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\bin\Debug\DemoLogin.exe.config
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\bin\Debug\DemoLogin.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\bin\Debug\DemoLogin.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.Form1.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.pdb
