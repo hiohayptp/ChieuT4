@@ -19,7 +19,12 @@ namespace DemoLogin
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Success success = new Success();
+            if (textBox1.ToString() == textBox2.ToString())
+            {
+                success.Show();
+                Console.WriteLine("Success");
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

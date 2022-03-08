@@ -9,3 +9,4 @@ C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\D
 C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.csproj.CoreCompileInputs.cache
 C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.exe
 C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\ChieuT4\DemoLogin\DemoLogin\obj\Debug\DemoLogin.Success.resources
